@@ -24,5 +24,10 @@ namespace Zadatak_1
         {
             InitializeComponent();
         }
+
+        private void But1_Click()
+        {
+
+        }
     }
 }
